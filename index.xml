@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aziz Baran</title>
+    <link>https://azizbarank.github.io/</link>
+    <description>Recent content on Aziz Baran</description>
+    <image>
+      <url>https://azizbarank.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://azizbarank.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://azizbarank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dealing with Lack of Computational Resources in NLP</title>
+      <link>https://azizbarank.github.io/post/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizbarank.github.io/post/resources/</guid>
+      <description>For a while I was thinking of sharing my personal experience about how I, as a student, have tried to overcome the challenge of unavailability of computational resources like lack of proper GPUs, memory storage or even high latency when doing NLP tasks. So, I decided to list all of the things I have learned so far and make a blog post out of them. Disclaimer: This post is not meant to be the exhaustive list of all of the options available out there, but rather my own personal journey throughout my education so far.</description>
+    </item>
+    
+    <item>
+      <title>Simple Guide to Building and Deploying Transformer Models with Hugging Face</title>
+      <link>https://azizbarank.github.io/post/deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizbarank.github.io/post/deployment/</guid>
+      <description>In this post, I want to talk about how to use Hugging Face to build and deploy our NLP model as a web application. To do this, I’m going to use the Distilled Turkish BERT model and fine-tune it on a Turkish review dataset. Later, I’m going to make use of the Streamlit library and Hugging Face Spaces to showcase the final model so that the other people can use it without any code.</description>
+    </item>
+    
+    <item>
+      <title>Transformers as Feature Extractors</title>
+      <link>https://azizbarank.github.io/post/transformers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://azizbarank.github.io/post/transformers/</guid>
+      <description>Transformers continue to be one of the most frequently used models for various NLP tasks since 2017. However, due to their high computational resource requirements and difficult maintenance, they may not be the most efficient choice out there all the time. This is especially true for simple sentiment classification tasks. In such circumstances, among the alternatives, there is the feature-based approach, where we use transformers as feature extractors for a simple model.</description>
+    </item>
+    
+  </channel>
+</rss>

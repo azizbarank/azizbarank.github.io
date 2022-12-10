@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://azizbarank.github.io/sitemap.xml
